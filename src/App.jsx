@@ -3,7 +3,6 @@ import Navbar from './assets/components/navbar/Navbar'
 import Category from './assets/components/categories/Category'
 import { Routes, Route } from 'react-router-dom';
 import Details from './assets/components/categoryDetails/Details';
-import Product from './assets/components/products/product';
 import ProductNav from './assets/components/productNav/ProductNav';
 import Home from './assets/components/home/Home';
 import Create from './assets/components/create/Create';
