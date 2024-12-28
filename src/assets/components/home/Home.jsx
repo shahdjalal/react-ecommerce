@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Category from '../categories/Category';
-import Product from '../products/product';
+import Product from '../products/Product';
 import { faDownLong } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
