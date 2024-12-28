@@ -1,0 +1,19 @@
+.link{
+    color: white !important;
+    font-weight: bold !important;;
+
+}
+
+nav{
+
+    background-color: rgb(44, 62, 80) !important;
+    padding: 20px 0 !important;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.5);
+    z-index: 100;
+    
+}
+
+.logo{
+
+    font-size: 30px !important;
+}
